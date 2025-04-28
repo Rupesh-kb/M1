@@ -10,8 +10,12 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/4be177ff-f6d0-4aab-83e0-4fc358c45ac7)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/8c79e9ce-b591-4ec3-b2a4-f2af3e69ff53)
+
 
 
 
@@ -46,8 +50,12 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![image](https://github.com/user-attachments/assets/2801e34c-2a6a-4b2b-b185-24ed4df2bd91)
+
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/5d0450e6-0a0d-4bf7-8812-de5305cfe2f3)
+![image](https://github.com/user-attachments/assets/553c61a6-409b-423e-b65d-cd18001649b0)
 
 
 
@@ -80,8 +88,11 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/b7c4b7bb-a2bd-4e0f-98d1-58ec7a9544df)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/434359b5-e9cb-4210-9a42-7df65b5447c1)
 
 
 
@@ -111,8 +122,12 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/7062a861-6e7f-4f96-8c3e-764806aa6cc9)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/59432a34-9061-4dfc-b926-cb0ca6b77b82)
+![image](https://github.com/user-attachments/assets/88efb69d-9d09-4a12-8f0d-71d7911ff0f3)
 
 
 
@@ -147,9 +162,15 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/0fc9d048-89a0-472d-bf4b-bedf4320acce)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/60370acd-8d29-4f3a-be6e-91287d2d7903)
+
 
 ## RESULT:
+
+
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
